@@ -484,7 +484,7 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 862px;
+    min-height: 1230px;
   }
 
   .u-section-3 .u-shape-1 {
@@ -533,7 +533,7 @@
   .u-section-3 .u-shape-3 {
     width: 119px;
     height: 75px;
-    margin-top: -43px;
+    margin-top: -64px;
   }
 } .u-section-4 {
   min-height: 783px;
@@ -763,6 +763,7 @@
 
   .u-section-4 .u-image-4 {
     min-height: 360px;
+    background-position: 100% 50%;
   }
 } .u-section-5 {
   background-image: none;
